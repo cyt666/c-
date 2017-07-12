@@ -1,0 +1,5 @@
+E:\code\c#\正则\正则\bin\Debug\正则.exe
+E:\code\c#\正则\正则\bin\Debug\正则.pdb
+E:\code\c#\正则\正则\obj\x86\Debug\正则.exe
+E:\code\c#\正则\正则\obj\x86\Debug\正则.pdb
+E:\code\c#\正则\正则\obj\x86\Debug\正则.csprojResolveAssemblyReference.cache

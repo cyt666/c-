@@ -1,0 +1,5 @@
+E:\code\c#\sxml\sxml\bin\Debug\sxml.exe
+E:\code\c#\sxml\sxml\bin\Debug\sxml.pdb
+E:\code\c#\sxml\sxml\obj\x86\Debug\sxml.exe
+E:\code\c#\sxml\sxml\obj\x86\Debug\sxml.pdb
+E:\code\c#\sxml\sxml\obj\x86\Debug\sxml.csprojResolveAssemblyReference.cache
